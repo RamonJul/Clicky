@@ -1,7 +1,7 @@
 {
   "name": "clicky",
   "version": "0.1.0",
-  "private": true,\
+  "private": true,
   "homepage":" https://ramonjul.github.io/Clicky/"
   "dependencies": {
     "react": "^16.8.6",
