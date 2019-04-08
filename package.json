@@ -2,11 +2,13 @@
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage":" https://ramonjul.github.io/Clicky/"
+  "homepage": " https://ramonjul.github.io/Clicky/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "save-dev": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,4 +26,4 @@
     "not ie <= 11",
     "not op_mini all"
   ]
-},
+}
