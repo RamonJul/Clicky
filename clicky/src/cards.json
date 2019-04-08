@@ -1,46 +1,66 @@
 [
  {
      "id":1,
-     "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_315,w_200/v1554487751/clicky%20lotr/latest.jpg"
+     "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554487751/clicky%20lotr/latest.jpg"
  },
  {
      "id":2,
-     "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_315,w_200/v1554488531/clicky%20lotr/Galadriel.webp"
+     "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554488531/clicky%20lotr/Galadriel.webp"
  }, 
  {
      "id":3,
-     "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_315,w_200/v1554497550/clicky%20lotr/Gandalf_the_Grey.webp"
+     "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554497550/clicky%20lotr/Gandalf_the_Grey.webp"
  } ,
 
  {
     "id":4,
-    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_315,w_200/v1554497551/clicky%20lotr/Gimli_-_FOTR.webp"
+    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554497551/clicky%20lotr/Gimli_-_FOTR.webp"
 },
 {
     "id":5,
-    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_315,w_200/v1554497554/clicky%20lotr/Legolas_-_in_Two_Towers.PNG.webp"
+    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554497554/clicky%20lotr/Legolas_-_in_Two_Towers.PNG.webp"
 }, 
 {
     "id":6,
-    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_315,w_200/v1554497556/clicky%20lotr/Sauron-2.webp"
+    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554497556/clicky%20lotr/Sauron-2.webp"
 } ,
 
 {
     "id":7,
-    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_315,w_200/v1554497557/clicky%20lotr/Seanbean_boromir.webp"
+    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554497557/clicky%20lotr/Seanbean_boromir.webp"
 },
 {
     "id":8,
-    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_315,w_200/v1554497596/clicky%20lotr/Untitledjk.webp"
+    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554497596/clicky%20lotr/Untitledjk.webp"
 }, 
 {
     "id":9,
-    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_315,w_200/v1554497643/clicky%20lotr/Christopher_Lee_as_Saruman.webp"
+    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554497643/clicky%20lotr/Christopher_Lee_as_Saruman.webp"
 } ,
 
 {
     "id":10,
-    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_315,w_200/v1554497721/clicky%20lotr/Sam.webp"
-}
+    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554497721/clicky%20lotr/Sam.webp"
+},
+{
+    "id":11,
+    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554682162/clicky%20lotr/Merry1.webp"
+},
+{
+    "id":12,
+    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554682174/clicky%20lotr/Elrond_of_Rivendell.webp"
+}, 
+{
+    "id":13,
+    "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554682181/clicky%20lotr/Gollum_Render.jpg"
+} ,
 
+{
+   "id":14,
+   "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554682194/clicky%20lotr/100_beautiful_arwen.webp"
+},
+{
+   "id":15,
+   "image":"https://res.cloudinary.com/daawmv4sy/image/upload/c_scale,h_250,w_200/v1554682204/clicky%20lotr/Pippinprintscreen.webp"
+}
 ]

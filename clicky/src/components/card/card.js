@@ -7,7 +7,7 @@ class Card extends React.Component{
 
         return(
         <div className="clickyImg" onClick={()=> this.props.click(this.props.id)} >        
-            <img src={this.props.img} alt="img"></img>
+            <img src={this.props.img} alt="img" className="image"></img>
         </div>
      
 

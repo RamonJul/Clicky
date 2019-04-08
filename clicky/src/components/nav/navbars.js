@@ -1,5 +1,5 @@
 import React from "react";
-// import "./card.css"
+import "./nav.css"
 
 class Navbar extends React.Component {
         // nav(props) {
@@ -11,9 +11,9 @@ class Navbar extends React.Component {
         render() {
                 return(
 
-                        <nav className="navbar navbar-light bg-light">
-                                <h4 id="topScore"> Top Score: {this.props.topScore}</h4>
-                                <h4 id="score"> Score: {this.props.score}</h4>
+                        <nav className="navbar navbar-light">
+                                 <h4 id="topScore"> Top Score: {this.props.topScore}</h4>
+                                 <h4 id="score"> Score: {this.props.score}</h4>        
                               
                         </nav>
                 )

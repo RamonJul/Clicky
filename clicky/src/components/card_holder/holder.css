@@ -1,5 +1,9 @@
 .holder{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap
+    flex-wrap: wrap;
+    margin: 40px 0;
+    background-color: #030061;  
+    justify-content: space-evenly;
+    padding: 15px 5px;
 }
