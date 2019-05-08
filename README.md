@@ -10,4 +10,4 @@ The images as well are hosted on cloudinary which allows us to dynamically chang
 
 ## Demo
 
-[!Demo in how the game works](/images/demo.gif)
+![Demo in how the game works](/images/demo.gif)
